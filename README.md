@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Kunal Kumar and I'm a Competitive programmer and Fullstack web developer , from Nit Jamshedpur</h2>
 
 ###
 
