@@ -6,9 +6,9 @@ Passionate about building scalable applications, solving algorithmic problems, a
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/kunal-kumar-3217a9228/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kunalkr1354@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/MrCodder/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
@@ -59,9 +59,6 @@ Passionate about building scalable applications, solving algorithmic problems, a
 
 - 🚀 Spring Boot Authentication API
 - 🛒 Full Stack E-Commerce Application
-- 💬 Real-Time Chat Application
-- 🔗 URL Shortener
-- ⚡ Rate Limiter
 - 📚 Competitive Programming Solutions
 
 ---
