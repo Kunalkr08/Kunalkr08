@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi 👋, I'm Kunal Kumar
 
-<!--
-**Kunalkr08/Kunalkr08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Software Developer from India 🇮🇳
 
-Here are some ideas to get you started:
+I enjoy building scalable backend applications, solving algorithmic problems, and learning distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- SQL
+
+### Backend
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Hibernate / JPA
+- REST APIs
+
+### Databases
+- PostgreSQL
+- MySQL
+- Redis
+
+### Messaging & Data
+- Kafka
+
+### Frontend
+- React
+- TypeScript
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Maven
+- IntelliJ IDEA
+- VS Code
+
+---
+
+## 🌱 Currently Learning
+
+- System Design
+- Distributed Systems
+- Microservices
+- Kubernetes
+
+---
+
+## 🏆 Competitive Programming
+
+- LeetCode Knight
+- Regular DSA Practice
+- Strong interest in Algorithms & Data Structures
+
+---
+
+## 📂 Featured Projects
+
+- 🔹 Spring Boot Authentication API
+- 🔹 E-Commerce Backend
+- 🔹 URL Shortener
+- 🔹 Chat Application
+- 🔹 Rate Limiter
+- 🔹 Competitive Programming Solutions
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Email
