@@ -1,77 +1,74 @@
-# Hi 👋, I'm Kunal Kumar
+👋 Hi, I'm Kunal Kumar
 
-### Backend Software Developer from India 🇮🇳
+Backend Software Developer
 
-I enjoy building scalable backend applications, solving algorithmic problems, and learning distributed systems.
+Java • Spring Boot • PostgreSQL • Kafka • Redis • Docker
 
----
+----------------------------
 
-## 💻 Tech Stack
+🙋 About Me
 
-### Languages
-- Java
-- Python
-- JavaScript
-- SQL
+🎓 B.Tech, NIT Jamshedpur
 
-### Backend
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Hibernate / JPA
-- REST APIs
+💻 Backend Development
 
-### Databases
-- PostgreSQL
-- MySQL
-- Redis
+🌱 Currently Learning
+• System Design
+• Microservices
+• Kubernetes
 
-### Messaging & Data
-- Kafka
+🏆 Competitive Programming
+• LeetCode Knight
+• DSA Enthusiast
 
-### Frontend
-- React
-- TypeScript
+----------------------------
 
-### Tools
-- Git
-- GitHub
-- Docker
-- Maven
-- IntelliJ IDEA
-- VS Code
+🛠 Tech Stack
 
----
+Languages
+Java  Python  JavaScript  SQL
 
-## 🌱 Currently Learning
+Backend
+Spring Boot
+Spring Security
+Hibernate
+REST APIs
+Kafka
 
-- System Design
-- Distributed Systems
-- Microservices
-- Kubernetes
+Database
+PostgreSQL
+MySQL
+Redis
 
----
+Frontend
+React
+TypeScript
 
-## 🏆 Competitive Programming
+Tools
+Docker
+Git
+GitHub
+Maven
+IntelliJ
 
-- LeetCode Knight
-- Regular DSA Practice
-- Strong interest in Algorithms & Data Structures
+----------------------------
 
----
+📂 Featured Projects
 
-## 📂 Featured Projects
+🚀 E-Commerce Backend
 
-- 🔹 Spring Boot Authentication API
-- 🔹 E-Commerce Backend
-- 🔹 URL Shortener
-- 🔹 Chat Application
-- 🔹 Rate Limiter
-- 🔹 Competitive Programming Solutions
+🚀 Chat Application
 
----
+🚀 URL Shortener
 
-## 📫 Connect With Me
+🚀 Rate Limiter
 
-- LinkedIn
-- Email
+🚀 Competitive Programming
+
+----------------------------
+
+📫 Connect
+
+LinkedIn
+Email
+LeetCode
