@@ -63,23 +63,6 @@ Passionate about building scalable applications, solving algorithmic problems, a
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunalkr08&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalkr08&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Kunalkr08&theme=tokyonight"/>
-</p>
-
----
-
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
