@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Kumar</h1>
-<h3 align="center">Full Stack Developer | Java | Spring Boot | React</h3>
+<h3 align="center">Full Stack Developer | Java | Python | Spring Boot | FastAPI | Next.js | React</h3>
 
 <p align="center">
 Passionate about building scalable applications, solving algorithmic problems, and continuously learning modern software engineering.
